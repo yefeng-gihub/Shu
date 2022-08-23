@@ -8,6 +8,6 @@ public class Client {
 
         Owner owner = new Owner();
         home.action(owner);
-        System.out.println("完成了修改");
+        System.out.println("完成了修改3");
     }
 }
