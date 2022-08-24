@@ -9,5 +9,7 @@ public class Client {
         Owner owner = new Owner();
         home.action(owner);
         System.out.println("牛马lods饿啊ji");
+        System.out.println("tiahfaoij");
+        System.out.println("gdfgdf");
     }
 }
