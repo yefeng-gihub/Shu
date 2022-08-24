@@ -8,6 +8,6 @@ public class Client {
 
         Owner owner = new Owner();
         home.action(owner);
-        System.out.println("牛马lodsji");
+        System.out.println("牛马lods饿啊ji");
     }
 }
